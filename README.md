@@ -2,6 +2,7 @@
 
 **Requirements for Restaurant Class Assignment**   
 
+**Name:** Edelweiss    
 **Wait Time:** 30 min   
 **Rating:** 4 out of 5   
 **Price:** $25 - $35   
